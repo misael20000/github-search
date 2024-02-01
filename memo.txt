@@ -72,7 +72,12 @@ cats topics:>=5
 cats size:<10000
 cats stars:<=50 or stars:*..50
 range: cats stars:10..50
-
+misaelgaspar2000@gmail.com
+1030 park ave woodburn oregon apt d6  97071
+pathward A N
+3534760680001
+124085244
+depositar 2000 mention
 Works also with date:
 cats created:>2016-04-29 or created:2012-04-30..*
 cats created:>=2017-04-01
